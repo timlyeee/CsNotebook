@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsNotebook", "CsNotebook\CsNotebook.csproj", "{F2BCE512-F15D-43F7-B6AE-1BB21A16FD87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2BCE512-F15D-43F7-B6AE-1BB21A16FD87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2BCE512-F15D-43F7-B6AE-1BB21A16FD87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2BCE512-F15D-43F7-B6AE-1BB21A16FD87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2BCE512-F15D-43F7-B6AE-1BB21A16FD87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9212ED37-8789-4B64-91B9-8AB61DC08798}
+	EndGlobalSection
+EndGlobal
