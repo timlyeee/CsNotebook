@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1259
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsNotebook", "CsNotebook\CsNotebook.csproj", "{F2BCE512-F15D-43F7-B6AE-1BB21A16FD87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockPanelTest", "DockPanelTest\DockPanelTest.csproj", "{8C2AD18B-BE5B-41BE-B83D-A54735892A50}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F2BCE512-F15D-43F7-B6AE-1BB21A16FD87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2BCE512-F15D-43F7-B6AE-1BB21A16FD87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2BCE512-F15D-43F7-B6AE-1BB21A16FD87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C2AD18B-BE5B-41BE-B83D-A54735892A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C2AD18B-BE5B-41BE-B83D-A54735892A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C2AD18B-BE5B-41BE-B83D-A54735892A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C2AD18B-BE5B-41BE-B83D-A54735892A50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
